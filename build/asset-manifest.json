@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/worldofbooks/static/css/main.ee858874.chunk.css",
+    "main.js": "/worldofbooks/static/js/main.4403576a.chunk.js",
+    "main.js.map": "/worldofbooks/static/js/main.4403576a.chunk.js.map",
+    "runtime-main.js": "/worldofbooks/static/js/runtime-main.edc6381e.js",
+    "runtime-main.js.map": "/worldofbooks/static/js/runtime-main.edc6381e.js.map",
+    "static/css/2.818011ed.chunk.css": "/worldofbooks/static/css/2.818011ed.chunk.css",
+    "static/js/2.923fac40.chunk.js": "/worldofbooks/static/js/2.923fac40.chunk.js",
+    "static/js/2.923fac40.chunk.js.map": "/worldofbooks/static/js/2.923fac40.chunk.js.map",
+    "index.html": "/worldofbooks/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/worldofbooks/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.ee858874.chunk.css.map": "/worldofbooks/static/css/main.ee858874.chunk.css.map",
+    "static/js/2.923fac40.chunk.js.LICENSE.txt": "/worldofbooks/static/js/2.923fac40.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.edc6381e.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.923fac40.chunk.js",
+    "static/css/main.ee858874.chunk.css",
+    "static/js/main.4403576a.chunk.js"
+  ]
+}
