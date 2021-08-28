@@ -1,0 +1,12 @@
+.author {
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+}
+
+.author__info{
+    background-color: rgb(238, 238, 238);
+}
+
+.author__info ul {
+    text-align: justify;
+}

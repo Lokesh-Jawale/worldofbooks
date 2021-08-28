@@ -1,0 +1,64 @@
+.App {
+    justify-content: center;
+    text-align: center;
+    background-color: white;
+    height: 650px;
+    max-height: 700px;
+    display: flex;   
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.App__container {
+    width: 100%;
+    max-width: 320px;
+    border: 10px solid rgba(171, 255, 241, 0.692);
+    background-color: rgba(199, 247, 205, 0.445);
+    padding: 1em 2em;
+    overflow: auto;
+}
+
+.App__container h4 {
+    color: grey;
+}
+
+.App__containerSearchBox {
+    margin: 3em 0 2em;
+    padding: 0.5em;
+    background-color: white;
+    border-radius: 12px;
+}
+
+.App__containerSearchBox input {
+    border: none;
+}
+
+.App__containerSearchBox button {
+    border: none;
+    background-color: royalblue;
+    color: white;
+    border-radius: 10px;
+}
+
+.App__containerSearchBox Button:hover {
+    background-color: rgb(42, 81, 197) !important;
+}
+
+.App__containerAuthorsList {
+    height: 350px;
+    width: 100%;    
+    background-color: rgb(255, 255, 255);
+    padding: 0.5em;
+    border-radius: 5px;
+    overflow: auto;
+}
+
+
+@media(min-width: 720px){
+    .App__container {
+        max-width: 700px;
+        border: 20px solid rgba(171, 255, 241, 0.692);
+    }
+}
